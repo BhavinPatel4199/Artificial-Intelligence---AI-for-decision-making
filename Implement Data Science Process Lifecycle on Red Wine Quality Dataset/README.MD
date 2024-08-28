@@ -8,7 +8,7 @@ The goal is to develop a model that can accurately classify the quality of red w
 The red wine industry is growing, and with it comes the challenge of maintaining and certifying product quality. Traditionally, wine quality assessment relies on human tasters, making it subjective, time-consuming, and expensive. 
 This project aims to automate the quality assessment process using machine learning techniques.
 
-## Dataset
+## Dataset : "winequality-red.csv"
 
 The dataset used in this project contains various physicochemical properties of red wine, such as acidity, sugar content, and alcohol concentration. 
 These properties are used as features to predict the quality rating of the wine, which serves as the target variable.
