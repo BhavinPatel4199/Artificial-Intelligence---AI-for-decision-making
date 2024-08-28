@@ -7,7 +7,7 @@ This repository contains a project focused on classifying text data using variou
 - Text classification is a critical task in natural language processing (NLP). This project aims to classify text data into different categories using machine learning algorithms. 
 - The focus is on comparing the performance of models like Random Forest, Gradient Boosting, and XGBoost, and selecting the most efficient model based on accuracy and computation time.
 
-## Dataset : "IMBD_dataset.csv"
+## Dataset : "IMBD_dataset.csv" (Unzip the dataset)
 
 ## Project Structure
 
