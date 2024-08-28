@@ -1,4 +1,4 @@
-# Artificial-Intelligence---AI-for-decision-making
+# Artificial-Intelligence - AI-for-decision-making
 
 - This repository contains three projects that showcase the application of artificial intelligence and data science techniques to solve real-world problems.
 - Each project is implemented using various machine learning models and tools, demonstrating the complete data science lifecycle from data preparation to model evaluation and deployment.
@@ -27,4 +27,4 @@ Each sub-repository is equipped with detailed instructions, code, and documentat
 
 ## Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/krishnapatel1722/Artificial-Intelligence---AI-for-decision-making.git
